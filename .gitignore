@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and Models - exclude large files
+*.csv
+*.pkl
+*.h5
+*.joblib
+models/
+data/
+
+# Results and Outputs
+results/
+results- 200k/
+uploads/
+logs/
+*.png
+*.jpg
+*.jpeg
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.temp
+*.log
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Keep important files
+!models/.gitkeep
+!data/.gitkeep
+!results/.gitkeep
+!README.md
+!requirements.txt
