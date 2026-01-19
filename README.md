@@ -1,5 +1,7 @@
 # Network Intrusion Detection System (NIDS)
 
+**Author:** Md. Mahmudol Hasan
+
 A production-quality, AI-powered Network Intrusion Detection System that classifies network traffic as normal or malicious using advanced machine learning techniques.
 
 ## 🎯 Project Overview
@@ -23,6 +25,7 @@ This system leverages multiple ML algorithms to detect network intrusions with h
 ## 📊 Dataset Description
 
 **Dataset**: CIC-IDS 2017  
+**Download**: [Kaggle - CICIDS2017 Full Modified](https://www.kaggle.com/datasets/sweety18/cicids2017-full-modified-all-8-files)  
 **Size**: ~830 MB  
 **Format**: CSV  
 **Features**: 78 network flow statistics  
