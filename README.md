@@ -1,6 +1,7 @@
 # Network Intrusion Detection System (NIDS)
 
-**Author:** Md. Mahmudol Hasan
+## 👨‍💻 Author
+**Md. Mahmudol Hasan**
 
 A production-quality, AI-powered Network Intrusion Detection System that classifies network traffic as normal or malicious using advanced machine learning techniques.
 
@@ -513,12 +514,6 @@ for feat, imp, val in zip(explanation['features'],
 ## 📄 License
 
 This project is provided as-is for educational and research purposes.
-
----
-
-## 👨‍💻 Author
-
-Built as a comprehensive production-ready Network Intrusion Detection System for cybersecurity applications.
 
 ---
 
