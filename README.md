@@ -547,6 +547,6 @@ If you use this system in your research, please cite:
 
 ---
 
-**Last Updated**: January 2024
-**Python Version**: 3.8+
+**Last Updated**: November 2025
+**Python Version**: 3.13.3
 **Status**: Production Ready ✅
